@@ -1,0 +1,48 @@
+nav {
+    float: left;
+    width: 275px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    border-top: 1px solid lightgreen;
+    border-bottom: 1px solid lightgreen;
+    background-color: lightgreen;
+}
+/*section {
+    float:left ;
+    width: 800px;
+    margin: 10px;
+    padding: 10px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    background-color: red;
+    
+
+}*/
+aside {
+    float: left;
+    width: 275px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    border-top: 1px solid lightpink;
+    border-bottom: 1px solid lightpink;
+    background-color: lightpink;
+    
+}
+footer {
+    background-color: pink;
+    color: black;
+    overflow: auto;
+    bottom: 0;
+    width: 1500px;
+    height: 50px;
+}
+
+.diw { 
+    float:left ;
+    width: 800px;
+    margin: 10px;
+    padding: 10px;
+    border-top: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+    background-color: lightblue;
+}
